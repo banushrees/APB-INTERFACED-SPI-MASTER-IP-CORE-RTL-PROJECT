@@ -1,4 +1,5 @@
-# APB-INTERFACED-SPI-MThe project involves the design of an APB-based SPI Master Core using RTL.The SPI Master Core is
+# APB-based SPI Master IP Core using RTL Project
+The project involves the design of an APB-based SPI Master Core using RTL.The SPI Master Core is
 controlled and configured through an APB interface and communicates with an external SPI slave
 device through the SPI interface.
 The design consists of an APB slave interface, APB state machine, SPI state machine, baud rate
